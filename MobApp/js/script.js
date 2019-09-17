@@ -7,6 +7,9 @@ URI     : https://surjithctly.in/
 
 Copyright © All rights Reserved 
 
+
+Hey, modifico un archivo JavaScript porque no habia php en este proyecto :(
+
 */
 
 $(function() {
